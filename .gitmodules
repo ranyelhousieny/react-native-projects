@@ -1,0 +1,3 @@
+[submodule "react-native-hello-world"]
+	path = react-native-hello-world
+	url = https://github.com/ranyelhousieny/react-native-projects/react-native-hello-world
